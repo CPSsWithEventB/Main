@@ -14,4 +14,4 @@
 
 ## Plugin
 
-[The user manual for the SageMath Plugin(Pdf)](https://github.com/CPSsWithEventB/UserManual)
+[The user manual for the SageMath Plugin(Pdf)](https://github.com/CPSsWithEventB/UserManual/blob/main/SageMathPlugin_Manual.pdf)
