@@ -10,7 +10,7 @@
 [The Event-B models for the Water Tank case study(Pdf sources)](https://github.com/CPSsWithEventB/WaterTankModels/blob/main/WaterTank_Model.pdf)
 
 
-[The Event-B models for the Stop Sign case study(Pdf sources)](https://github.com/CPSsWithEventB/SAC2023-StopSign/blob/main/StopSignalModel_.pdf)
+[The Event-B models for the Stop Sign case study(Pdf sources)](https://github.com/CPSsWithEventB/StopSignalModels/blob/main/StopSignal_Model.pdf)
 
 ## Plugin
 
