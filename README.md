@@ -7,7 +7,7 @@
 [The Event-B generic models (Pdf sources)](https://github.com/CPSsWithEventB/GenericModels/blob/main/Generic_Model.pdf)
 
 ## Case Studies
-[The Event-B models for the Water Tank case study(Pdf sources)](https://github.com/CPSsWithEventB/SAC2023-Water-Tank/blob/main/WaterTankModel_.pdf)
+[The Event-B models for the Water Tank case study(Pdf sources)](https://github.com/CPSsWithEventB/WaterTankModels/blob/main/WaterTank_Model.pdf)
 
 
 [The Event-B models for the Stop Sign case study(Pdf sources)](https://github.com/CPSsWithEventB/SAC2023-StopSign/blob/main/StopSignalModel_.pdf)
